@@ -12,7 +12,7 @@ Student ID: 760089381
 
 ⬜ Write pseudocode for the SQL queries 
 
-## Repo contents  
+## 📂Repo contents  
 | File Name | Description |
 | --------- | ----------- |
 | doctors.csv | list of doctors with name, DOB, address, role and hospital ID |
