@@ -6,7 +6,7 @@ Student ID: 760089381
 ## 📋Tasks
 ☑️ Create GITHub repository, with READMe  
 
-⬜ Create ERD   
+☑️ Create ERD   
 
 ☑️ Create tables in mysql and load files into them   
 
