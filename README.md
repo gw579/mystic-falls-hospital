@@ -8,7 +8,9 @@ Student ID: 760089381
 
 ☑️ Create ERD   
 
-☑️ Create tables in mysql and load files into them    
+☑️ Create tables in mysql and load files into them 
+
+☑️ Create Bash scripts to run the queries as requested in Assessment brief
 
 ## 📂Repo contents  
 | File Name | Description |
