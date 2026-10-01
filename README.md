@@ -23,4 +23,6 @@ Student ID: 760089381
 | prescripbydoctor.sh | Bash script to show all prescriptions by a particular doctor, ordered by patient ID. Requires user to input doctor ID. |
 | prescripbypatient.sh | Bash script to show all prescriptions for a particular patient, ordered by the prescription date. Requires user to input patient ID. |
 | doctorsathospital.sh | Bash script to list all doctors at a particular hospital. Requires user to input Hospital ID, and reports name of hospital as confirmation of correct input. |
-
+| newpatient.sh | Bash script to add a patient to the patients table, and confirm by showing that patient's data within the table |
+| busiestdoc2.sh | Bash script to find the doctor who has signed the highest number of prescriptions |
+| smallfish.sh | Bash script to show a list of the doctors working at the biggest hospital (i.e. the small fishes in the big pond!) |
