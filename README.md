@@ -8,9 +8,7 @@ Student ID: 760089381
 
 ☑️ Create ERD   
 
-☑️ Create tables in mysql and load files into them   
-
-⬜ Write pseudocode for the SQL queries 
+☑️ Create tables in mysql and load files into them    
 
 ## 📂Repo contents  
 | File Name | Description |
@@ -26,3 +24,7 @@ Student ID: 760089381
 | newpatient.sh | Bash script to add a patient to the patients table, and confirm by showing that patient's data within the table |
 | busiestdoc2.sh | Bash script to find the doctor who has signed the highest number of prescriptions |
 | smallfish.sh | Bash script to show a list of the doctors working at the biggest hospital (i.e. the small fishes in the big pond!) |
+
+## ❗Note
+All the bash scripts will require the user to enter the MySQL password, sometimes repeatedly. 
+I could have created a .cnf file to avoid this. However for the purposes of assessment, Module Tutors will need to be able to use the scripts, so I have kept it as-is. 
